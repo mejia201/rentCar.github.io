@@ -18,6 +18,8 @@ body{
     min-height: 700px;
 }
 
+
+
 .container {
     max-width: 1200px;
     margin: 0 auto;
@@ -96,7 +98,7 @@ body{
     width: 50%;
 }
 .header-txt h1 {
-    font-size: 50px;
+    font-size: 40px;
     line-height: 70px;
     color: #12114d;
     text-transform: capitalize;
